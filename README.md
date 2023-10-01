@@ -1,4 +1,20 @@
-<h1 align="center">Hi There 👋 Wassup</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        p.icon-sec img {
+    background: #fff;
+}
+
+p.icon-sec img {
+    background: #fff;
+    border-radius: 5px;
+    padding: 3px;
+}
+    </style>
+    </head>
+<body>
+    <h1 align="center">Hi There 👋 Wassup</h1>
 
 I am <a href="https://www.linkedin.com/in/afeefuddin/">Afeefuddin Patel</a></a>, a DevOps Software Engineer from India passionate
 about developing production-ready applications with 3+ years of professional
@@ -283,3 +299,6 @@ reach me **afeefuddin9@gmail.com**
     alt="afeefuddin9"
   />
 </p>
+
+</body>
+</html>
