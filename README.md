@@ -31,7 +31,7 @@ reach me **afeefuddin9@gmail.com**
   <a
     href="https://linkedin.com/in/https://www.linkedin.com/in/afeefuddin/"
     target="blank"
-    ><img
+    ><img 
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="https://www.linkedin.com/in/afeefuddin/"
